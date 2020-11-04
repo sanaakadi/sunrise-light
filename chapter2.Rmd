@@ -14,3 +14,6 @@ Let's learn more this week...
 data wrangling
 https://github.com/sanaakadi/sunrise-light
 https://github.com/sanaakadi/IODS-projechttps-github.com-sanaakadi-IODS-project-settingst/graphs/contributors
+lrn14 <- read.table("http://www.helsinki.fi/~kvehkala/JYTmooc/JYTOPKYS3-data.txt", sep="\t", header=TRUE)
+# Look at the dimensions of the data
+# Look at the structure of the data
